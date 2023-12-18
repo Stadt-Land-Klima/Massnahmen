@@ -1,4 +1,5 @@
-# Dokumente, Issues(Aufgaben/Tickets der Planungsgruppe Stadt.Lanf.Klima!
+# Dokumente, Issues(Aufgaben/Tickets)
+der Planungsgruppe Stadt.Land.Klima!
 
 ## Mitglieder: 
 
