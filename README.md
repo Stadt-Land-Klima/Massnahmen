@@ -25,8 +25,13 @@ https://pad.fridaysforfuture.is/p/SLK!-Planungteam-Protokoll
 Ergebnis Strategietreffen 16./17.12.2023 FFM:
 https://pad.fridaysforfuture.is/p/SLK!-Tagesordnung_16-12-2023
 
-Jahresziele / Strategie 2024 (Präsentation Lukas)
+Jahresziele / Strategie 2024 
+
+Präsentation Lukas
 https://docs.google.com/presentation/d/1QZipam8v4qEhwzlCy9EZQY9D06zFSG3e1klnmJW_gl4/edit#slide=id.g2a3b22ee3c8_0_559
+
+Präsentation Norbert: 
+https://docs.google.com/presentation/d/1-c0MyI6v-bneD0ApIFONmzSRnldVkjWu/edit#slide=id.p1
 
 Vorbereitung Vereinsgründung:
 https://pad.fridaysforfuture.is/p/SLK!-Vereinsgr%C3%BCndung
