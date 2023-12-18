@@ -11,7 +11,13 @@ der Planungsgruppe Stadt.Land.Klima!
                   
                   Otto
 
+-----
 # Dokumente, Pads
+
+Allgemeine Infos zur Gruppe
+https://pad.fridaysforfuture.is/p/SLK-Planungsteam-Dokumente
+
+Unser Raum für das Meeting: https://kuei.zoom.us/j/95074439652?pwd=WXdibGxEd3dXMXM2eTlPTm4wUHltUT09 | Hostkey ist 248992
 
 Protokoll Planungsteam (laufend): 
 https://pad.fridaysforfuture.is/p/SLK!-Planungteam-Protokoll
