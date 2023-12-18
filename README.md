@@ -21,6 +21,7 @@ Unser Raum für das Meeting: https://kuei.zoom.us/j/95074439652?pwd=WXdibGxEd3dX
 
 Protokoll Planungsteam (laufend): 
 https://pad.fridaysforfuture.is/p/SLK!-Planungteam-Protokoll
+-----
 
 Ergebnis Strategietreffen 16./17.12.2023 FFM:
 https://pad.fridaysforfuture.is/p/SLK!-Tagesordnung_16-12-2023
@@ -32,6 +33,10 @@ https://docs.google.com/presentation/d/1QZipam8v4qEhwzlCy9EZQY9D06zFSG3e1klnmJW_
 
 Präsentation Norbert: 
 https://docs.google.com/presentation/d/1-c0MyI6v-bneD0ApIFONmzSRnldVkjWu/edit#slide=id.p1
+
+Langfristige Lokalteams (Lukas)
+https://docs.google.com/presentation/d/14hpeG5-2jPVZPM9VIuNkwedDRQUsPvKl3fToKkbPZ48/edit#slide=id.g2a77998e08d_0_0
+----
 
 Vorbereitung Vereinsgründung:
 https://pad.fridaysforfuture.is/p/SLK!-Vereinsgr%C3%BCndung
