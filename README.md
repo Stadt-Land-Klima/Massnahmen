@@ -1,4 +1,5 @@
-# Bearbeiten der Maßnahmen Dokumente, Issues (Aufgaben/Tickets)
+# Bearbeiten der Maßnahmen 
+Dokumente, Issues (Aufgaben/Tickets)
 der Maßnahmengruppe Stadt.Land.Klima!
 
 ## Mitglieder/Heads: 
