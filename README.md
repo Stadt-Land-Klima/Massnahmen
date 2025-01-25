@@ -1,8 +1,7 @@
-# Dokumente, Issues (Aufgaben/Tickets)
+# Barbeiten der Maßnahmen Dokumente, Issues (Aufgaben/Tickets)
 der Maßnahmengruppe Stadt.Land.Klima!
 
 ## Mitglieder/Heads: 
-**1. Maßnahmenentwicklung**
   * Head: Smilla
   * Backup: Lukas/Norbert
     
