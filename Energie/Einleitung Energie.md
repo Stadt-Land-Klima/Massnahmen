@@ -2,4 +2,5 @@
 
 Erneuerbare Energien, wie Sonnen- und Windkraft, Wasserkraft, Geothermie und Biomasse, bieten nachhaltige Alternativen zu fossilen Brennstoffen. Durch den verstärkten Einsatz erneuerbarer Energiequellen können wir unsere Abhängigkeit von fossilen Brennstoffen verringern, Treibhausgasemissionen reduzieren und die Luftqualität verbessern. Die Umstellung auf erneuerbare Energien ein Schlüsselelement lokaler Klimapolitik.
 
-Energie/EN_11.md
+[EN_11](Energie/EN_11.md)
+
