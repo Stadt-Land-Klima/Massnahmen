@@ -12,25 +12,25 @@ der Maßnahmengruppe Stadt.Land.Klima!
 Die 35 Maßnahmen in den 6 Sektoren
 
 ### [Energie **| 10 Maßnahmen**](https://github.com/OttoCFF/SLK-Massnahmen/tree/Ma%C3%9Fnahmen/Energie)
-EN_1	Freiflächen-PV/Solarthermie
+[EN_1	Freiflächen-PV/Solarthermie](https://github.com/OttoCFF/SLK-Massnahmen/blob/Ma%C3%9Fnahmen/Energie/EN_1.md)
 
-EN_2	Windkraftanlagen und Windparks der Kommune
+[EN_2	Windkraftanlagen und Windparks der Kommune](https://github.com/OttoCFF/SLK-Massnahmen/blob/Ma%C3%9Fnahmen/Energie/EN_2.md)
 
 [EN_3	Beratungsangebote zur Energiewende](https://github.com/OttoCFF/SLK-Massnahmen/blob/Ma%C3%9Fnahmen/Energie/EN_3.md)
 
-EN_5	Förderung von Balkonsolaranlagen
+[EN_5	Förderung von Balkonsolaranlagen](https://github.com/OttoCFF/SLK-Massnahmen/blob/Ma%C3%9Fnahmen/Energie/EN_5.md)
 
-EN_6	Kein Greenwashing für Gas
+[EN_6	Kein Greenwashing für Gas](https://github.com/OttoCFF/SLK-Massnahmen/blob/Ma%C3%9Fnahmen/Energie/EN_6.md)
 
-EN_7	Ökostrom für kommunale Liegenschaften
+[EN_7	Ökostrom für kommunale Liegenschaften](https://github.com/OttoCFF/SLK-Massnahmen/blob/Ma%C3%9Fnahmen/Energie/EN_7.md)
 
-EN_9	Mitglied beim Bundesverband erneuerbare Energie e.V. (anstatt DIE GAS- UND WASSERSTOFFWIRTSCHAFT e.V.))
+[EN_9	Mitglied beim Bundesverband erneuerbare Energie e.V. (anstatt DIE GAS- UND WASSERSTOFFWIRTSCHAFT e.V.)](https://github.com/OttoCFF/SLK-Massnahmen/blob/Ma%C3%9Fnahmen/Energie/EN_9.md)
 
-EN_10	Keine neuen Verträge für fossilen Strom
+[EN_10	Keine neuen Verträge für fossilen Strom](https://github.com/OttoCFF/SLK-Massnahmen/blob/Ma%C3%9Fnahmen/Energie/EN_10.md)
 
 [EN_11	Ökostromanteil der Stadtwerke](https://github.com/OttoCFF/SLK-Massnahmen/blob/Ma%C3%9Fnahmen/Energie/EN_11.md)
 
-EN_13	Bürgerenergiegenossenschaften
+[EN_13	Bürgerenergiegenossenschaften](https://github.com/OttoCFF/SLK-Massnahmen/blob/Ma%C3%9Fnahmen/Energie/EN_13.md)
 
 ### [Gebäude & Wärme **| 4 Maßnahmen**](https://github.com/OttoCFF/SLK-Massnahmen/tree/Ma%C3%9Fnahmen/Geb%C3%A4ude%20%26%20W%C3%A4rme)
 GW_2	Transformationsplan zur Dekarbonisierung vorhandener Fernwärmenetze
