@@ -1,7 +1,7 @@
 # Freiflächen-PV/Solarthermie
 ID: EN_1
 
-[Siehe Issue](#22)
+[Issue EN_1_test #22](#22)
 
 # Was beinhaltet diese Maßnahme? Um was geht es?
 Die Kommune entschließt sich, dass sie gerne Freiflächen-PV-Anlage auf ihrem Gebiet haben wollen.  Zunächst wird eine Potenzialanalyse durchgeführt. Als zweiter Schritt werden Freiflächen für freistehende PV- & Solarthermieanlagen ausgewiesen (Flächennutzungsplan). Diese werden dann im Bebauungsplan festgeschrieben.
