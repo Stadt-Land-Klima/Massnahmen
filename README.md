@@ -3,8 +3,8 @@ Dokumente, Issues (Aufgaben/Tickets)
 der Maßnahmengruppe Stadt.Land.Klima!
 
 ## Mitglieder/Heads: 
-  * Head: @Smilla
-  * Backup: @Lukas, @Norbert
+  * Head: @Smilla, @Norbert
+  * Backup: @Lukas 
   * Mitarbeit: @otto
     
 
