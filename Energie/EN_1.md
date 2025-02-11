@@ -13,4 +13,4 @@ Die Kommune entschließt sich, dass sie gerne Freiflächen-PV-Anlage auf ihrem G
 - Rot: Es gibt keine Ausweisung.
 - Gelb (1/3 Score): Es wurde eine Potenzialanalyse durchgeführt und veröffentlicht.
 - Hellgrün (2/3 Score): Es wurden Flächen dafür ausgewiesen.
-- Dunkelgrün (voller Score): Es gibt eine Freiflächen-PV-A
+- Dunkelgrün (voller Score): Es gibt eine Freiflächen-PV-A und anderes
