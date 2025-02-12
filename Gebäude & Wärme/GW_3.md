@@ -19,7 +19,7 @@ Impact: 3
 Kontroverse: 2
 
 Kosten: 2
-
+# Wichtung: 10
 # So findest du heraus, ob diese Maßnahme angenommen wurde:
 Ankündigung auf Website der Stadt oder
 kommunale Beschlüsse im Ratsinformationssystem nachlesen
