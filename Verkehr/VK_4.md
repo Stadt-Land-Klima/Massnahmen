@@ -19,6 +19,6 @@ Impact: 3
 Kontroverse: 5
 
 Kosten: 4
-
+# Wichtung: 20
 # So findest du heraus, ob diese Maßnahme angenommen wurde:
 Stadt- bzw. Gemeinderatsbeschluss, Monitoringbericht, Stellplatzsatzung
