@@ -14,11 +14,11 @@ Grün – Konkreter Plan mit Maßnahmen zu 100 % Dekarbonisierung bis 2035 und M
 
 # Bewertung der Umsetzbarkeit
 
-Impact
+Impact: 4
 
-Kontroverse
+Kontroverse: 5
 
-Kosten
+Kosten: 1
 
 # So findest du heraus, ob diese Maßnahme angenommen wurde:
 Ankündigung auf Website der Stadt oder: kommunale Beschlüsse im Ratsinformationssystem nachlesen / lokale Presse
