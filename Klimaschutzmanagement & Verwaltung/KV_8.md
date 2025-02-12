@@ -21,7 +21,7 @@ Impact: 5
 Kontroverse: 3
 
 Kosten: 5
-
+# Wichtung: 35
 
 # So findest du heraus, ob diese Maßnahme angenommen wurde:
 Informationen zu Personal und Ansprechpersonen für Klimaschutz finden sich auf Website der Kommune.
