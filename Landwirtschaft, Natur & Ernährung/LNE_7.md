@@ -22,3 +22,20 @@ Kosten: 4
 # Wichtung: 10
 # So findest du heraus, ob diese Maßnahme angenommen wurde:
 Stadtratsbeschluss; nachzulesen im Flächennutzungsplan (evtl. Abschnitte Grünflächen, Flächen für Maßnahmen zum Schutz, zur Pflege und zur Entwicklung von Boden, Natur und Landschaft (SPE-Maßnahmen).) und/oder in den jeweiligen Bebauungsplänen
+# Was bringt diese Maßnahme? Wieso hilft sie?
+
+# So bringst du die Maßnahme ein:
+
+# So setzt deine Kommune die Maßnahme um:
+
+# Rechtliche Hürden, Möglichkeiten und Optionen:
+
+# Mögliche Förderung
+
+# Politisches Tutorial
+
+# Erklärung
+
+# Erklärung zur Überprüfung
+
+# Hinweise
