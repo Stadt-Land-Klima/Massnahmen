@@ -21,7 +21,7 @@ Impact: 5
 Kontroverse: 2
 
 Kosten: 3
-
+# Wichtung: 50
 # Was bringt diese Maßnahme? Wieso hilft sie?
 Die Kläranlage ist meist der größte kommunale Stromverbraucher. SEIBERT-ERLING, 2007 nennt als typischen Anteil 31 % am Stromverbrauch einer Kommune, also mehr noch als Straßenbeleuchtung (25 %) und Schulen (24 %). Durch entsprechende Optimierung lassen sich 40 bis 60 % des Strombezugs einer Kläranlage einsparen MITSDOERFFER & CHRIST, 2008. https://www.sieker.de/fachinformationen/abwasserbehandlung/article/beispiele-225.html (abgerufen 8.4.2024, 13 Uhr)
 
