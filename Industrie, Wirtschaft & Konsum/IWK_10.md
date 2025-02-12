@@ -29,3 +29,20 @@ Kosten: 1
 Das Repaircafé sollte auf der Website der Stadt beworben sein, ansonsten per Onlinesuche auffindbar.
 
 Sollten mehrere Kommunen ein gemeinsames Repaircafé betreiben (z.B. zwei anliegende Kleinstädte oder ein Kreis), können sie damit diese Maßnahme erfüllen. Bei den Metriken wird dann die gesamte Einwohnerzahl aller beteiligten Kommunen als Grundlage verwendet.
+# Was bringt diese Maßnahme? Wieso hilft sie?
+
+# So bringst du die Maßnahme ein:
+
+# So setzt deine Kommune die Maßnahme um:
+
+# Rechtliche Hürden, Möglichkeiten und Optionen:
+
+# Mögliche Förderung
+
+# Politisches Tutorial
+
+# Erklärung
+
+# Erklärung zur Überprüfung
+
+# Hinweise
