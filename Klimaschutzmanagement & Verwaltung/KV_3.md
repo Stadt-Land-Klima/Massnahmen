@@ -16,11 +16,11 @@ Grün – Lokaler Klimafonds ist vorhanden und mindestens zwei Projekte wurden b
 
 # Bewertung der Umsetzbarkeit
 
-Impact
+Impact: 5
 
-Kontroverse
+Kontroverse: 3
 
-Kosten
+Kosten: 4
 
 # So findest du heraus, ob diese Maßnahme angenommen wurde:
 Website der Stadt, hier sollte der Klimafond, egal ob von der Kommune selbst oder von anderen Organisationen aufgelegt, präsent sein. Die Förderbestimmungen müssen transparent sein und lokale Klimaschutzmaßnahmen fördern (sollten zusätzlich zu lokalen/regionalen Maßnahmen auch weitere Maßnahmen gefördert werden, betrachten wir nur den Teil des Fonds, der sich auf regionales bezieht) Das Fondmanagement muss transparent und sollte öffentlich sein. Die vergebene Förderungen werden offen gelegt und kontrolliert.
