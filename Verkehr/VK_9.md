@@ -22,3 +22,20 @@ Kosten: 1
 # Wichtung: 15
 # So findest du heraus, ob diese Maßnahme angenommen wurde:
 Mobilitätsplan auf Website der Kommune
+# Was bringt diese Maßnahme? Wieso hilft sie?
+
+# So bringst du die Maßnahme ein:
+
+# So setzt deine Kommune die Maßnahme um:
+
+# Rechtliche Hürden, Möglichkeiten und Optionen:
+
+# Mögliche Förderung
+
+# Politisches Tutorial
+
+# Erklärung
+
+# Erklärung zur Überprüfung
+
+# Hinweise
