@@ -17,3 +17,20 @@ Kosten: 2
 # Wichtung: 5
 ## So findest du heraus, ob diese Maßnahme angenommen wurde:
 Website der Stadt und Stadtwerke bietet Hinweise zu Energieberater*innern und Energieberatungsagenturen und Unterstützung bei Veranstaltungen zur Energiewende/Klimaneutralität oder die Stadt führt selbst solche Veranstaltungen durch
+# Was bringt diese Maßnahme? Wieso hilft sie?
+
+# So bringst du die Maßnahme ein:
+
+# So setzt deine Kommune die Maßnahme um:
+
+# Rechtliche Hürden, Möglichkeiten und Optionen:
+
+# Mögliche Förderung
+
+# Politisches Tutorial
+
+# Erklärung
+
+# Erklärung zur Überprüfung
+
+# Hinweise
