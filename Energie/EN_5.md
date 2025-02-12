@@ -16,11 +16,11 @@ Grün – Förderung existiert, Fördersumme ist mindestens 2€ pro EW (also 10
 
 # Bewertung der Umsetzbarkeit
 
-Impact
+Impact: 3
 
-Kontroverse
+Kontroverse: 1
 
-Kosten
+Kosten: 1
 
 # So findest du heraus, ob diese Maßnahme angenommen wurde:
 Website der Stadt - da müssen Förderangebote und auch Ankündigungen stehen
