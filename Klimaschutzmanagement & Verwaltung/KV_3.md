@@ -24,3 +24,20 @@ Kosten: 4
 # Wichtung: 35
 # So findest du heraus, ob diese Maßnahme angenommen wurde:
 Website der Stadt, hier sollte der Klimafond, egal ob von der Kommune selbst oder von anderen Organisationen aufgelegt, präsent sein. Die Förderbestimmungen müssen transparent sein und lokale Klimaschutzmaßnahmen fördern (sollten zusätzlich zu lokalen/regionalen Maßnahmen auch weitere Maßnahmen gefördert werden, betrachten wir nur den Teil des Fonds, der sich auf regionales bezieht) Das Fondmanagement muss transparent und sollte öffentlich sein. Die vergebene Förderungen werden offen gelegt und kontrolliert.
+# Was bringt diese Maßnahme? Wieso hilft sie?
+
+# So bringst du die Maßnahme ein:
+
+# So setzt deine Kommune die Maßnahme um:
+
+# Rechtliche Hürden, Möglichkeiten und Optionen:
+
+# Mögliche Förderung
+
+# Politisches Tutorial
+
+# Erklärung
+
+# Erklärung zur Überprüfung
+
+# Hinweise
