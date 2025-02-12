@@ -18,11 +18,11 @@ Grün – Klimarelevanzprüfung aller Beschlüsse wird transparent dargestellt
 
 # Bewertung der Umsetzbarkeit
 
-Impact
+Impact: 3
 
-Kontroverse
+Kontroverse: 3
 
-Kosten
+Kosten: 2
 
 # So findest du heraus, ob diese Maßnahme angenommen wurde:
 Stadtratsbeschluss und Website der Stadt. Für hellgrün & grün sollten stichprobenartig ein paar Beschlüsse aus dem Ratsinformationssystem überprüft werden, ob dort eine Klimarelevanzprüfung vorkommt.
