@@ -21,7 +21,7 @@ Impact: 3
 Kontroverse: 4
 
 Kosten: 1
-
+# Wichtung: 15
 # So findest du heraus, ob diese Maßnahme angenommen wurde:
 Website der IHK oder Kommune und Einladung zu den Runden Tischen ansehen, ob die Kriterien erfüllt werden, d.h. die Themenkomplexe Energiewende, Klimaschutz & Nachhaltigkeit vorkommen
 
