@@ -28,7 +28,7 @@ Impact: 3
 Kontroverse: 4
 
 Kosten: 1
-
+# Wichtung: 15
 # So findest du heraus, ob diese Maßnahme angenommen wurde:
 Ein Beispiel: Köln https://zerowastekoeln.de/politik/zero-waste-staedte/
 
