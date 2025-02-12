@@ -22,3 +22,20 @@ Kosten: 4
 # Wichtung: 20
 # So findest du heraus, ob diese Maßnahme angenommen wurde:
 Stadt- bzw. Gemeinderatsbeschluss, Monitoringbericht, Stellplatzsatzung
+# Was bringt diese Maßnahme? Wieso hilft sie?
+
+# So bringst du die Maßnahme ein:
+
+# So setzt deine Kommune die Maßnahme um:
+
+# Rechtliche Hürden, Möglichkeiten und Optionen:
+
+# Mögliche Förderung
+
+# Politisches Tutorial
+
+# Erklärung
+
+# Erklärung zur Überprüfung
+
+# Hinweise
