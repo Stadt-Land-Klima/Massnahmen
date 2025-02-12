@@ -14,6 +14,13 @@ Die Kommune entschließt sich, dass sie gerne Freiflächen-PV-Anlage auf ihrem G
 - Gelb (1/3 Score): Es wurde eine Potenzialanalyse durchgeführt und veröffentlicht.
 - Hellgrün (2/3 Score): Es wurden Flächen dafür ausgewiesen.
 - Dunkelgrün (voller Score): Es gibt eine Freiflächen-PV-A und anderes
+#Bewertung der Umsetzbarkeit
+
+Impact
+
+Kontroverse
+
+Kosten
 # So findest du heraus, ob diese Maßnahme angenommen wurde:
 Infos, ob konkrete Pläne (in Form der Potenzialanalyse oder Ausweisung von Flächen) für eine Freiflächen-PV Anlage bestehen, stehen im Flächennutzungsplan bzw. dem Bebauungsplan. Bebauungsplan: Definition, Bebauungsplan einsehen & lesen
 
