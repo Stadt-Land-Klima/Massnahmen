@@ -27,3 +27,20 @@ Kosten: 5
 Informationen zu Personal und Ansprechpersonen für Klimaschutz finden sich auf Website der Kommune.
 
 Zur Hierarchie der Verwaltung gibt es ein Organigramm auf der Website der Kommune, wo relevante Fachbereiche/Stabsstellen/Dezernate/etc. aufzufinden sind. Falls (z.B. in sehr großen Städten) einzelne Fachbereiche nicht im Organigramm aufgezählt sind, könnt ihr schauen, ob es ein Umweltamt mit einem Fachbereich Klimaschutz gibt oder über eine Suchmaschine nach dem Klimaschutzmanager und dessen Abteilung suchen. Was über diese Methoden nicht gefunden werden kann, gibt keine Punkte.
+# Was bringt diese Maßnahme? Wieso hilft sie?
+
+# So bringst du die Maßnahme ein:
+
+# So setzt deine Kommune die Maßnahme um:
+
+# Rechtliche Hürden, Möglichkeiten und Optionen:
+
+# Mögliche Förderung
+
+# Politisches Tutorial
+
+# Erklärung
+
+# Erklärung zur Überprüfung
+
+# Hinweise
