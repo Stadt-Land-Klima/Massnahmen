@@ -21,6 +21,6 @@ Impact: 5
 Kontroverse: 2
 
 Kosten: 1
-
+# Wichtung: 35
 # So findest du heraus, ob diese Maßnahme angenommen wurde:
 Ankündigung auf Website der Stadt oder: kommunale Beschlüsse im Ratsinformationssystem nachlesen. Sobald die Wärmeplanung fertig ist, sollte sie auch veröffentlicht werden!
