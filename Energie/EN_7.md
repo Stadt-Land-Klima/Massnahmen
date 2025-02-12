@@ -16,11 +16,11 @@ Grün – Alle Liegenschaften mit qualiifiziertem Ökostrom
 
 # Bewertung der Umsetzbarkeit
 
-Impact
+Impact: 3
 
-Kontroverse
+Kontroverse: 2
 
-Kosten
+Kosten: 2
 
 # So findest du heraus, ob diese Maßnahme angenommen wurde:
 Webseite der Stadt oder Stadtwerke muss ein Energiemonitoring zu den eigenen Liegenschaften haben und dazu Zahlen veröffentlichen. Wenn nichts auffindbar ist, müssen auch keine Punkte für diese Maßnahme vergeben werden.
