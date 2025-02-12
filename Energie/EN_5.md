@@ -24,3 +24,20 @@ Kosten: 1
 # Wichtung: 10
 # So findest du heraus, ob diese Maßnahme angenommen wurde:
 Website der Stadt - da müssen Förderangebote und auch Ankündigungen stehen
+# Was bringt diese Maßnahme? Wieso hilft sie?
+
+# So bringst du die Maßnahme ein:
+
+# So setzt deine Kommune die Maßnahme um:
+
+# Rechtliche Hürden, Möglichkeiten und Optionen:
+
+# Mögliche Förderung
+
+# Politisches Tutorial
+
+# Erklärung
+
+# Erklärung zur Überprüfung
+
+# Hinweise
