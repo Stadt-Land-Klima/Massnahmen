@@ -24,7 +24,7 @@ Impact: 1
 Kontroverse: 1
 
 Kosten: 1
-
+# Wichtung: 7
 # So findest du heraus, ob diese Maßnahme angenommen wurde:
 Das Repaircafé sollte auf der Website der Stadt beworben sein, ansonsten per Onlinesuche auffindbar.
 
