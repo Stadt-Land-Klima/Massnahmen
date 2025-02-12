@@ -16,11 +16,11 @@ Grün – Öffentlicher Ist-Bericht mindestens jährlich mit verbindlichen Nachs
 
 # Bewertung der Umsetzbarkeit
 
-Impact
+Impact: 3
 
-Kontroverse
+Kontroverse: 3
 
-Kosten
+Kosten: 3
 
 # So findest du heraus, ob diese Maßnahme angenommen wurde:
 Sollte leicht auf der Website der Stadt oder via Google auffindbar sein. Datum der Veröffentlichung ist zu überprüfen.
