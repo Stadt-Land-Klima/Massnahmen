@@ -19,11 +19,11 @@ Bei Kommunen **bis 50.000** Einwohner: Ein Repaircafé mit Öffnungszeiten von m
 Bei Kommunen **ab 50.000** Einwohner: Mindestens 1 Repaircafé pro angefangene 100.000 Einwohner der Kommune, mit mindestens wöchentlichen Öffnungszeiten
 # Bewertung der Umsetzbarkeit
 
-Impact
+Impact: 1
 
-Kontroverse
+Kontroverse: 1
 
-Kosten
+Kosten: 1
 
 # So findest du heraus, ob diese Maßnahme angenommen wurde:
 Das Repaircafé sollte auf der Website der Stadt beworben sein, ansonsten per Onlinesuche auffindbar.
