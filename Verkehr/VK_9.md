@@ -19,6 +19,6 @@ Impact: 5
 Kontroverse: 5
 
 Kosten: 1
-
+# Wichtung: 15
 # So findest du heraus, ob diese Maßnahme angenommen wurde:
 Mobilitätsplan auf Website der Kommune
