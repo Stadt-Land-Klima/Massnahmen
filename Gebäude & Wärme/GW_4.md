@@ -21,5 +21,5 @@ Impact: 5
 Kontroverse: 3
 
 Kosten: 5
-
+# Wichtung: 50
 # So findest du heraus, ob diese Maßnahme angenommen wurde:
