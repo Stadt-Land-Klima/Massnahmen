@@ -16,7 +16,7 @@ Impact: 3
 Kontroverse: 3
 
 Kosten: 1
-
+# Wichtung: 7
 # So findest du heraus, ob diese Maßnahme angenommen wurde:
 Mitgliederlisten durchschauen:
 
