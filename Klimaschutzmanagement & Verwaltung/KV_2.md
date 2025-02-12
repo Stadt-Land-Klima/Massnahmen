@@ -16,11 +16,11 @@ Grün – Es gibt eine Möglichkeit zur Bürgerbeteiligung mit direktem Mitbesti
 
 # Bewertung der Umsetzbarkeit
 
-Impact
+Impact: 3
 
-Kontroverse
+Kontroverse: 4
 
-Kosten
+Kosten: 1
 
 # So findest du heraus, ob diese Maßnahme angenommen wurde:
 Möglichkeiten zur Bürgerbeteiligung sollten auf Website der Stadt aufzufinden sein oder Presseartikel zu Beschlüssen auffindbar. Bürgerbeteiligungen leben von Transparenz und Kommunikation, also wenn nichts auffindbar ist, gibt es auch keine Punkte.
