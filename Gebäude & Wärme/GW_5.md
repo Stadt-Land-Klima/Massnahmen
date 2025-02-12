@@ -16,11 +16,11 @@ Grün – Wärmeplanung ist in der Umsetzung und es gibt ein Monitoring dazu, wa
 
 # Bewertung der Umsetzbarkeit
 
-Impact
+Impact: 5
 
-Kontroverse
+Kontroverse: 2
 
-Kosten
+Kosten: 1
 
 # So findest du heraus, ob diese Maßnahme angenommen wurde:
 Ankündigung auf Website der Stadt oder: kommunale Beschlüsse im Ratsinformationssystem nachlesen. Sobald die Wärmeplanung fertig ist, sollte sie auch veröffentlicht werden!
