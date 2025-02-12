@@ -14,11 +14,11 @@ Grün – Es gibt 100 CarSharing-Angebote pro 100.000 EW (bzw. 1 pro 1000)
 
 # Bewertung der Umsetzbarkeit
 
-Impact
+Impact: 3
 
-Kontroverse
+Kontroverse: 1
 
-Kosten
+Kosten: 2
 
 # So findest du heraus, ob diese Maßnahme angenommen wurde:
 Für Kommunen ab 50.000 gibt es genaue Zahlen im Städteranking vom Bundesverband CarSharing e.V.: https://carsharing.de/alles-ueber-carsharing/carsharing-zahlen/carsharing-staedteranking-2022
