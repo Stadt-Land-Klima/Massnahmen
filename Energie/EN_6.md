@@ -16,11 +16,11 @@ Grün – Entweder gar kein Gas angeboten, oder bei Gasverträgen ein Hinweis da
 
 # Bewertung der Umsetzbarkeit
 
-Impact
+Impact: 1
 
-Kontroverse
+Kontroverse: 1
 
-Kosten
+Kosten: 1
 
 # So findest du heraus, ob diese Maßnahme angenommen wurde:
 Website der Stadwerke UND der Stadt überprüfen
