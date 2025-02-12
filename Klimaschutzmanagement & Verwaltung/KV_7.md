@@ -26,3 +26,20 @@ Kosten: 2
 # Wichtung: 7
 # So findest du heraus, ob diese Maßnahme angenommen wurde:
 Stadtratsbeschluss und Website der Stadt. Für hellgrün & grün sollten stichprobenartig ein paar Beschlüsse aus dem Ratsinformationssystem überprüft werden, ob dort eine Klimarelevanzprüfung vorkommt.
+# Was bringt diese Maßnahme? Wieso hilft sie?
+
+# So bringst du die Maßnahme ein:
+
+# So setzt deine Kommune die Maßnahme um:
+
+# Rechtliche Hürden, Möglichkeiten und Optionen:
+
+# Mögliche Förderung
+
+# Politisches Tutorial
+
+# Erklärung
+
+# Erklärung zur Überprüfung
+
+# Hinweise
