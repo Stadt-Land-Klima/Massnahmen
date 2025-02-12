@@ -21,6 +21,6 @@ Impact: 3
 Kontroverse: 2
 
 Kosten: 4
-
+# Wichtung: 30
 # So findest du heraus, ob diese Maßnahme angenommen wurde:
 Website der Verkehrsgesellschaft. Sollte es mehrere ähnlich große Verkehrsgesellschaften geben, müssen alle die Metriken erfüllen. Wenn eine Verkehrsgesellschaft (fast) alle Linienbusse auf dem Gebiet der Kommune bereitstellt, muss nur diese bewertet werden.
