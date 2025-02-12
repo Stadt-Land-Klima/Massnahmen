@@ -16,11 +16,11 @@ Grün – Gesamte Nennleistung > 1500 Watt pro EW
 
 # Bewertung der Umsetzbarkeit
 
-Impact
+Impact: 5
 
-Kontroverse
+Kontroverse: 5
 
-Kosten
+Kosten: 2
 
 # So findest du heraus, ob diese Maßnahme angenommen wurde:
 Auf diese Karte gehen und die kWh der WKA im Gebiet der Kommune zusammenrechnen: https://wind-turbine.com/tools/wkamap
