@@ -14,11 +14,11 @@ Grün – Kompensation bei Neuversiegelung größer als 1:1 und aktive Unterstü
 
 # Bewertung der Umsetzbarkeit
 
-Impact
+Impact: 2
 
-Kontroverse
+Kontroverse: 4
 
-Kosten
+Kosten: 4
 
 # So findest du heraus, ob diese Maßnahme angenommen wurde:
 Stadtratsbeschluss; nachzulesen im Flächennutzungsplan (evtl. Abschnitte Grünflächen, Flächen für Maßnahmen zum Schutz, zur Pflege und zur Entwicklung von Boden, Natur und Landschaft (SPE-Maßnahmen).) und/oder in den jeweiligen Bebauungsplänen
