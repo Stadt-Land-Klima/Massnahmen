@@ -16,11 +16,11 @@ Grün – Mindestens halbjährliche Berichte, mehrere konkrete Projekte daraus b
 
 # Bewertung der Umsetzbarkeit
 
-Impact
+Impact: 3
 
-Kontroverse
+Kontroverse: 4
 
-Kosten
+Kosten: 1
 
 # So findest du heraus, ob diese Maßnahme angenommen wurde:
 Website der IHK oder Kommune und Einladung zu den Runden Tischen ansehen, ob die Kriterien erfüllt werden, d.h. die Themenkomplexe Energiewende, Klimaschutz & Nachhaltigkeit vorkommen
