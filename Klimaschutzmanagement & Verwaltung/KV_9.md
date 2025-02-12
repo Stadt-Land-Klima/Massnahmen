@@ -21,6 +21,6 @@ Impact: 3
 Kontroverse: 3
 
 Kosten: 3
-
+# Wichtung: 7
 # So findest du heraus, ob diese Maßnahme angenommen wurde:
 Sollte leicht auf der Website der Stadt oder via Google auffindbar sein. Datum der Veröffentlichung ist zu überprüfen.
