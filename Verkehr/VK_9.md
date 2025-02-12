@@ -14,11 +14,11 @@ Grün – ein Mobilitätskonzept mit dem genannten Ziel beschlossen und öffentl
 
 # Bewertung der Umsetzbarkeit
 
-Impact
+Impact: 5
 
-Kontroverse
+Kontroverse: 5
 
-Kosten
+Kosten: 1
 
 # So findest du heraus, ob diese Maßnahme angenommen wurde:
 Mobilitätsplan auf Website der Kommune
