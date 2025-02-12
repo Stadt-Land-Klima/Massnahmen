@@ -14,5 +14,6 @@ Impact: 2
 Kontroverse: 2
 
 Kosten: 2
+# Wichtung: 5
 ## So findest du heraus, ob diese Maßnahme angenommen wurde:
 Website der Stadt und Stadtwerke bietet Hinweise zu Energieberater*innern und Energieberatungsagenturen und Unterstützung bei Veranstaltungen zur Energiewende/Klimaneutralität oder die Stadt führt selbst solche Veranstaltungen durch
