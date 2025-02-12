@@ -14,6 +14,14 @@ Hellgrün – Bei Kommunen bis 20.000 Einwohner - Es gibt einen dedizierten Klim
 ab 20.000 Einwohner - Es gibt einen Fachbereich, der hauptsächlich für Klimaschutzthemen zuständig ist
 
 Grün – (Unabhängig von der Größe der Kommune): Es gibt ein Dezernat/Geschäftsbereich o.ä. primär für Klimaschutz, die im Organigramm der Kommune mindestens gleichwertig mit der Baubehörde oder direkt unterm (Ober-)bürgermeister sind
+# Bewertung der Umsetzbarkeit
+
+Impact: 5
+
+Kontroverse: 3
+
+Kosten: 5
+
 
 # So findest du heraus, ob diese Maßnahme angenommen wurde:
 Informationen zu Personal und Ansprechpersonen für Klimaschutz finden sich auf Website der Kommune.
