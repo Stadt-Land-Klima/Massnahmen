@@ -16,11 +16,11 @@ Grün – Es gibt an allen wichtigen (Bus-)bahnhöfen und ÖPNV-Knotenpunkten ko
 
 # Bewertung der Umsetzbarkeit
 
-Impact
+Impact: 1
 
-Kontroverse
+Kontroverse: 2
 
-Kosten
+Kosten: 3
 
 # So findest du heraus, ob diese Maßnahme angenommen wurde:
 Stadtratsbeschluss, Website der Stadt, Website der DB und/oder lokalen ADFC fragen. In kleineren Kommunen gibt es oftmals nur ein oder zwei ÖPNV-Knotenpunkte und die Umsetzung lässt sich dort besonders leicht überprüfen.
