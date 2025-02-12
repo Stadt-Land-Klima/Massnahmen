@@ -9,10 +9,10 @@ Aktivierung und Motivation von Unternehmer*innen, Energiewende und Klimaneutrali
 - Grün – Die Kommune organisiert eigene Beratungsangebote  im Rathaus oder an anderen leicht zugänglichen Orten in der Kommune. Das Angebot kann auch von externen Anbietern sein (z. B. IHK, Handwerkskammer, Netzagentur …) oder von der Wirtschaftsförderung der Stadt.
 # Bewertung der Umsetzbarkeit
 
-Impact
+Impact: 2
 
-Kontroverse
+Kontroverse: 2
 
-Kosten
+Kosten: 2
 ## So findest du heraus, ob diese Maßnahme angenommen wurde:
 Website der Stadt und Stadtwerke bietet Hinweise zu Energieberater*innern und Energieberatungsagenturen und Unterstützung bei Veranstaltungen zur Energiewende/Klimaneutralität oder die Stadt führt selbst solche Veranstaltungen durch
