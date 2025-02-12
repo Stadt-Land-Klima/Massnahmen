@@ -11,11 +11,11 @@ Grün – Mitglied beim Bundesverband erneuerbare Energie und NICHT bei DIE GAS-
 
 # Bewertung der Umsetzbarkeit
 
-Impact
+Impact: 3
 
-Kontroverse
+Kontroverse: 3
 
-Kosten
+Kosten: 1
 
 # So findest du heraus, ob diese Maßnahme angenommen wurde:
 Mitgliederlisten durchschauen:
