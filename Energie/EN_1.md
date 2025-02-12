@@ -28,3 +28,20 @@ Infos, ob konkrete Pläne (in Form der Potenzialanalyse oder Ausweisung von Flä
 – Wo werden Bebauungspläne veröffentlicht? 
 
 Der Bebauungsplan kann bei dem zuständigen Bauordnungsamt der Gemeinde bzw. beim Stadtplanungsamt eingesehen werden. Teils sind B-Pläne auch online abrufbar.
+# Was bringt diese Maßnahme? Wieso hilft sie?
+
+# So bringst du die Maßnahme ein:
+
+# So setzt deine Kommune die Maßnahme um:
+
+# Rechtliche Hürden, Möglichkeiten und Optionen:
+
+# Mögliche Förderung
+
+# Politisches Tutorial
+
+# Erklärung
+
+# Erklärung zur Überprüfung
+
+# Hinweise
