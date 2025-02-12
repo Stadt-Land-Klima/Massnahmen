@@ -14,11 +14,11 @@ Grün – Es gibt einen Beschluss mit konkretem Umsetzungsplan und Zielsetzung b
 
 # Bewertung der Umsetzbarkeit
 
-Impact
+Impact: 3
 
-Kontroverse
+Kontroverse: 5
 
-Kosten
+Kosten: 4
 
 # So findest du heraus, ob diese Maßnahme angenommen wurde:
 Stadt- bzw. Gemeinderatsbeschluss, Monitoringbericht, Stellplatzsatzung
