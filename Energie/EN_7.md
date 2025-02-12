@@ -24,3 +24,20 @@ Kosten: 2
 # Wichtung: 10
 # So findest du heraus, ob diese Maßnahme angenommen wurde:
 Webseite der Stadt oder Stadtwerke muss ein Energiemonitoring zu den eigenen Liegenschaften haben und dazu Zahlen veröffentlichen. Wenn nichts auffindbar ist, müssen auch keine Punkte für diese Maßnahme vergeben werden.
+# Was bringt diese Maßnahme? Wieso hilft sie?
+
+# So bringst du die Maßnahme ein:
+
+# So setzt deine Kommune die Maßnahme um:
+
+# Rechtliche Hürden, Möglichkeiten und Optionen:
+
+# Mögliche Förderung
+
+# Politisches Tutorial
+
+# Erklärung
+
+# Erklärung zur Überprüfung
+
+# Hinweise
