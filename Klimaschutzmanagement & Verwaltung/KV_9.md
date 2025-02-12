@@ -24,3 +24,20 @@ Kosten: 3
 # Wichtung: 7
 # So findest du heraus, ob diese Maßnahme angenommen wurde:
 Sollte leicht auf der Website der Stadt oder via Google auffindbar sein. Datum der Veröffentlichung ist zu überprüfen.
+# Was bringt diese Maßnahme? Wieso hilft sie?
+
+# So bringst du die Maßnahme ein:
+
+# So setzt deine Kommune die Maßnahme um:
+
+# Rechtliche Hürden, Möglichkeiten und Optionen:
+
+# Mögliche Förderung
+
+# Politisches Tutorial
+
+# Erklärung
+
+# Erklärung zur Überprüfung
+
+# Hinweise
