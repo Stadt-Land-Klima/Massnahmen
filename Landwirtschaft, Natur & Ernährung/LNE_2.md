@@ -27,3 +27,20 @@ Kosten: 2
 # Wichtung: 7
 # So findest du heraus, ob diese Maßnahme angenommen wurde:
 Die Beratungsangebote sind auf der Website der Kommune auffindbar. Der Hinweis zum Kauf regionaler, ökologischer landwirtschaftlicher Produkte ist auf der kommunalen Website zu finden, z. B. unter der Rubrik Bio-/Öko-Höfe oder ähnliches.
+# Was bringt diese Maßnahme? Wieso hilft sie?
+
+# So bringst du die Maßnahme ein:
+
+# So setzt deine Kommune die Maßnahme um:
+
+# Rechtliche Hürden, Möglichkeiten und Optionen:
+
+# Mögliche Förderung
+
+# Politisches Tutorial
+
+# Erklärung
+
+# Erklärung zur Überprüfung
+
+# Hinweise
