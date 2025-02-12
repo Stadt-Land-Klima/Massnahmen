@@ -23,11 +23,11 @@ die Kommune erfüllt mindestens 3 der folgenden Kriterien
 - Die Kommune führt Restmüllanalysen durch und veröffentlicht die Ergebnisse - Unterstützungsangebot für Recycling und Müllreduktionsinitativen lokaler Akteure
 # Bewertung der Umsetzbarkeit
 
-Impact
+Impact: 3
 
-Kontroverse
+Kontroverse: 4
 
-Kosten
+Kosten: 1
 
 # So findest du heraus, ob diese Maßnahme angenommen wurde:
 Ein Beispiel: Köln https://zerowastekoeln.de/politik/zero-waste-staedte/
