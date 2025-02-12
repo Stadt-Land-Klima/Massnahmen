@@ -22,4 +22,21 @@ Mitgliederlisten durchschauen:
 
 DIE GAS- UND WASSERSTOFFWIRTSCHAFT e.V. https://gas-h2.de/verband-gas-und-wasserstoffwirtschaft/mitglieder/
 Bundesverband erneuerbare Energie -> https://www.bee-ev.de/verband/mitglieder
-L
+
+# Was bringt diese Maßnahme? Wieso hilft sie?
+
+# So bringst du die Maßnahme ein:
+
+# So setzt deine Kommune die Maßnahme um:
+
+# Rechtliche Hürden, Möglichkeiten und Optionen:
+
+# Mögliche Förderung
+
+# Politisches Tutorial
+
+# Erklärung
+
+# Erklärung zur Überprüfung
+
+# Hinweise
