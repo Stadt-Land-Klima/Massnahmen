@@ -22,3 +22,20 @@ Kosten: 2
 # Wichtung: 15
 # So findest du heraus, ob diese Maßnahme angenommen wurde:
 Für Kommunen ab 50.000 gibt es genaue Zahlen im Städteranking vom Bundesverband CarSharing e.V.: https://carsharing.de/alles-ueber-carsharing/carsharing-zahlen/carsharing-staedteranking-2022
+# Was bringt diese Maßnahme? Wieso hilft sie?
+
+# So bringst du die Maßnahme ein:
+
+# So setzt deine Kommune die Maßnahme um:
+
+# Rechtliche Hürden, Möglichkeiten und Optionen:
+
+# Mögliche Förderung
+
+# Politisches Tutorial
+
+# Erklärung
+
+# Erklärung zur Überprüfung
+
+# Hinweise
