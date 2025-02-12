@@ -21,6 +21,7 @@ Impact: 3
 Kontroverse: 3
 
 Kosten: 2
+# Wichtung 10
 # So findest du heraus, ob diese Maßnahme angenommen wurde:
 Infos, ob konkrete Pläne (in Form der Potenzialanalyse oder Ausweisung von Flächen) für eine Freiflächen-PV Anlage bestehen, stehen im Flächennutzungsplan bzw. dem Bebauungsplan. Bebauungsplan: Definition, Bebauungsplan einsehen & lesen
 
