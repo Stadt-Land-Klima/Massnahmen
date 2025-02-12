@@ -16,9 +16,10 @@ Grün – Beschluss der Stadt zur Sanierung / Modernisierung ihrer Liegenschafte
 
 # Bewertung der Umsetzbarkeit
 
-Impact
+Impact: 5
 
-Kontroverse
+Kontroverse: 3
 
-Kosten
+Kosten: 5
+
 # So findest du heraus, ob diese Maßnahme angenommen wurde:
