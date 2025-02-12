@@ -24,3 +24,20 @@ Kosten: 1
 # Wichtung: 75
 # So findest du heraus, ob diese Maßnahme angenommen wurde:
 Möglichkeiten zur Bürgerbeteiligung sollten auf Website der Stadt aufzufinden sein oder Presseartikel zu Beschlüssen auffindbar. Bürgerbeteiligungen leben von Transparenz und Kommunikation, also wenn nichts auffindbar ist, gibt es auch keine Punkte.
+# Was bringt diese Maßnahme? Wieso hilft sie?
+
+# So bringst du die Maßnahme ein:
+
+# So setzt deine Kommune die Maßnahme um:
+
+# Rechtliche Hürden, Möglichkeiten und Optionen:
+
+# Mögliche Förderung
+
+# Politisches Tutorial
+
+# Erklärung
+
+# Erklärung zur Überprüfung
+
+# Hinweise
