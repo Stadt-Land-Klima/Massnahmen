@@ -19,11 +19,11 @@ Grün – 3 von den obigen 3 werden umgesetzt
 
 # Bewertung der Umsetzbarkeit
 
-Impact
+Impact: 2
 
-Kontroverse
+Kontroverse: 3
 
-Kosten
+Kosten: 2
 
 # So findest du heraus, ob diese Maßnahme angenommen wurde:
 Die Beratungsangebote sind auf der Website der Kommune auffindbar. Der Hinweis zum Kauf regionaler, ökologischer landwirtschaftlicher Produkte ist auf der kommunalen Website zu finden, z. B. unter der Rubrik Bio-/Öko-Höfe oder ähnliches.
