@@ -26,3 +26,20 @@ Kosten: 1
 Website der IHK oder Kommune und Einladung zu den Runden Tischen ansehen, ob die Kriterien erfüllt werden, d.h. die Themenkomplexe Energiewende, Klimaschutz & Nachhaltigkeit vorkommen
 
 Weiterhin sollten die Ergebnisse veröffentlich werden.
+# Was bringt diese Maßnahme? Wieso hilft sie?
+
+# So bringst du die Maßnahme ein:
+
+# So setzt deine Kommune die Maßnahme um:
+
+# Rechtliche Hürden, Möglichkeiten und Optionen:
+
+# Mögliche Förderung
+
+# Politisches Tutorial
+
+# Erklärung
+
+# Erklärung zur Überprüfung
+
+# Hinweise
