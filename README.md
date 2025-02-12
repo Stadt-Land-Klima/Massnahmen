@@ -96,7 +96,8 @@ VK_21	Verkehrsberuhigte Innenstadt
    * Gelborange
    * Hellgrün
    * Dunkelgrün
- 5. So findest du heraus, ob diese Maßnahme angenommen wurde:
+ 5. Wichtung
+ 6. So findest du heraus, ob diese Maßnahme angenommen wurde:
 ***    
  6. Was bringt diese Maßnahme? Wieso hilft sie?
  8. So bringst du die Maßnahme ein:
