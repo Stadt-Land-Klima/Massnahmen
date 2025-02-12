@@ -14,11 +14,11 @@ Grün – Energiemanagement beauftragt und Implementierung begonnen.
 
 # Bewertung der Umsetzbarkeit
 
-Impact
+Impact: 3
 
-Kontroverse
+Kontroverse: 2
 
-Kosten
+Kosten: 2
 
 # So findest du heraus, ob diese Maßnahme angenommen wurde:
 Ankündigung auf Website der Stadt oder
