@@ -21,6 +21,6 @@ Impact: 1
 Kontroverse: 2
 
 Kosten: 3
-
+# Wichtung: 7
 # So findest du heraus, ob diese Maßnahme angenommen wurde:
 Stadtratsbeschluss, Website der Stadt, Website der DB und/oder lokalen ADFC fragen. In kleineren Kommunen gibt es oftmals nur ein oder zwei ÖPNV-Knotenpunkte und die Umsetzung lässt sich dort besonders leicht überprüfen.
