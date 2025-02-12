@@ -1,5 +1,5 @@
 # Freiflächen-PV/Solarthermie
-ID: EN_1
+# ID: EN_1
 
 # offene Issues
 [Issue EN_1_test #22](#22)
@@ -14,3 +14,9 @@ Die Kommune entschließt sich, dass sie gerne Freiflächen-PV-Anlage auf ihrem G
 - Gelb (1/3 Score): Es wurde eine Potenzialanalyse durchgeführt und veröffentlicht.
 - Hellgrün (2/3 Score): Es wurden Flächen dafür ausgewiesen.
 - Dunkelgrün (voller Score): Es gibt eine Freiflächen-PV-A und anderes
+# So findest du heraus, ob diese Maßnahme angenommen wurde:
+Infos, ob konkrete Pläne (in Form der Potenzialanalyse oder Ausweisung von Flächen) für eine Freiflächen-PV Anlage bestehen, stehen im Flächennutzungsplan bzw. dem Bebauungsplan. Bebauungsplan: Definition, Bebauungsplan einsehen & lesen
+
+– Wo werden Bebauungspläne veröffentlicht? 
+
+Der Bebauungsplan kann bei dem zuständigen Bauordnungsamt der Gemeinde bzw. beim Stadtplanungsamt eingesehen werden. Teils sind B-Pläne auch online abrufbar.
