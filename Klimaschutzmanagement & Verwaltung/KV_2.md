@@ -21,6 +21,6 @@ Impact: 3
 Kontroverse: 4
 
 Kosten: 1
-
+# Wichtung: 75
 # So findest du heraus, ob diese Maßnahme angenommen wurde:
 Möglichkeiten zur Bürgerbeteiligung sollten auf Website der Stadt aufzufinden sein oder Presseartikel zu Beschlüssen auffindbar. Bürgerbeteiligungen leben von Transparenz und Kommunikation, also wenn nichts auffindbar ist, gibt es auch keine Punkte.
