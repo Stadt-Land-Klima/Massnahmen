@@ -23,3 +23,20 @@ Kosten: 2
 # Wichtung: 20
 # So findest du heraus, ob diese Maßnahme angenommen wurde:
 Stadtratsbeschluss und Website der Stadt bzw. Schulen und Kantinen selbst. Für größere Kommunen kann durch die Vielzahl der Einrichtungen die Überprüfung sehr komplex sein, deshalb sollte dort auf die Stadtratsbeschlüsse zurückgegriffen werden. Bei kleineren Kommunen können auch manuell alle Kantinen der Kommune überprüft werden, falls kein Beschluss o.ä. auffindbar ist. Wenn keine Kantinen existieren, zählen auch Veranstaltungen der Kommune, bei denen Essen angeboten wird.
+# Was bringt diese Maßnahme? Wieso hilft sie?
+
+# So bringst du die Maßnahme ein:
+
+# So setzt deine Kommune die Maßnahme um:
+
+# Rechtliche Hürden, Möglichkeiten und Optionen:
+
+# Mögliche Förderung
+
+# Politisches Tutorial
+
+# Erklärung
+
+# Erklärung zur Überprüfung
+
+# Hinweise
