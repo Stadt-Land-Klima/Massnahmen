@@ -26,3 +26,20 @@ Kosten: 2
 Auf diese Karte gehen und die kWh der WKA im Gebiet der Kommune zusammenrechnen: https://wind-turbine.com/tools/wkamap
 
 Die Grenzen der Kommune sind dort leider nicht angezeigt, ggf. auf Google Maps die Grenzen nachschauen und danebenlegen. Wir arbeiten an besseren Datenquellen
+# Was bringt diese Maßnahme? Wieso hilft sie?
+
+# So bringst du die Maßnahme ein:
+
+# So setzt deine Kommune die Maßnahme um:
+
+# Rechtliche Hürden, Möglichkeiten und Optionen:
+
+# Mögliche Förderung
+
+# Politisches Tutorial
+
+# Erklärung
+
+# Erklärung zur Überprüfung
+
+# Hinweise
