@@ -4,7 +4,7 @@ Bitte beachtet bei Änderungen usw. nach dem »Commit changes« kommt ein **Fens
 Beachtet es bitte und schreibt rein. 
 
 Bei unkritischen Änderungen den Kommentar an der Datei belassen. 
-Bei entscheidenden einen pull request starten. 
+Bei entscheidenden Änderungen einen Pull request starten. 
 (Das sind die zwei Optionen am unteren Ende des Fensters.)
 
 Bitte **keine** weiteren Markdown-Formatierungen einfügen.
