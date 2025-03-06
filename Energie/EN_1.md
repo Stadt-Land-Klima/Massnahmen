@@ -45,3 +45,4 @@ Der Bebauungsplan kann bei dem zuständigen Bauordnungsamt der Gemeinde bzw. bei
 # Erklärung zur Überprüfung
 
 # Hinweise
+TestNK2
